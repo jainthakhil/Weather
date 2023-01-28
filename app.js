@@ -60,7 +60,7 @@ function init(resultFromServer) {
             break;
         
         case 'Snow':
-            document.body.style.backgroundImage = "url('snowfall.gif')";
+            document.body.style.backgroundImage = "url('snowfall-gif.gif')";
             break;
 
         default:
